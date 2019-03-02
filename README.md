@@ -1,7 +1,7 @@
 ## Overview
 Using the data from the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, which contains individual househouse electric power consumption data
-from one household, for almost 4 years, I have constructed a 4 plots that examine how household
+from one household, for almost 4 years, I have constructed 4 plot files that examine how household
 energy usage varies over a 2-day period in 2007.
 
 ## Raw Data Characteristics
